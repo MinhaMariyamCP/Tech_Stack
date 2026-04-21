@@ -22,8 +22,8 @@ Submit a well-organized PDF that outlines the full tech stack you regularly use,
 
 ## 📂 Files Included
 
-* **Tech Stack (2).pdf** → Main submission document
-
+* [📄 View Tech Stack PDF](./Tech%20Stack%20%282%29.pdf)
+* README.md → Overview of the task
 
 ---
 
@@ -38,5 +38,4 @@ The purpose of this task is to showcase my **core technical skills**, the tools 
 Only tools that I have **personally used and have basic experience with** are included in the document.
 
 ---
-
 
